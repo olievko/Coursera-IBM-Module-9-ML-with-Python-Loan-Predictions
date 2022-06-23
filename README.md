@@ -1,4 +1,4 @@
-# Cpursera-IBM-Module-9-ML-with-Python-Loan-Predictions
+# Coursera-IBM-Module-9-ML-with-Python-Loan-Predictions
 ## Prediction the loan payment status
 
 This dataset is about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted. The task required to complete this module assignment includes building models based on following algorithm as well to test these model accuracy:
